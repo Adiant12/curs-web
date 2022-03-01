@@ -1,0 +1,55 @@
+div {
+  margin: 10px;
+  padding: 10px;
+}
+
+.foaie {
+  background:beige;
+  
+}
+
+.lista > input {
+  font-size: 300%;
+    font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.magazin > input[type="text"] {
+  font-size: 200%;
+  text-decoration: underline;
+  color:darkorange
+  
+}
+
+input:not([type="checkbox"]):not([value="adauga"]), select {
+  background-color: transparent;
+  border: 0;
+  font-style:italic;
+}
+
+* {
+    font-family: Gochi hand, cursive;
+}
+
+.produs > input[type="text"] {
+  font-style:italic
+  color:blue
+  
+}
+
+.produs > input[type="number"] {
+  width: 35px;
+
+  z
+}
+
+.lista > input {
+  width: 100%;
+  
+
+}
+
+input[type="text"]:focus {
+  color: red;
+}
